@@ -1,0 +1,22 @@
+client_id=569552e629edec48f4ce
+client secrets=ff83e3af89d2d251e3710c99143f89ed8dcad3ae
+http://localhost:8000/
+http://localhost:8000/auth/github
+
+
+
+
+post class Activity
+
+1.Now you have the user info--user idntity
+2.Do the next steps-maybe sending jwt if you are doing token based auth,or creating a session (explore session based authentication)
+
+3.Try Google Oauth--video will be realsed .
+
+
+
+
+
+
+
+
